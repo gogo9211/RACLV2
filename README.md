@@ -1,7 +1,7 @@
 # RACLV2
 RACLV2 is the improved version of our previous [RACL](https://github.com/gogo9211/RACL).
 
-For a detailed writeup on the reversal and development process, read our thread on [v3rmillion](PLACEHOLDER_URL)!
+For a detailed writeup on the reversal and development process, read our thread on [v3rmillion](https://v3rmillion.net/showthread.php?tid=1189425)!
 
 Note: When injecting this, make sure that the DLL is injected into the **SECOND** process, and not the first.
 
